@@ -2,7 +2,7 @@
 
 <p align="center">
  <strong>
-I’m Suryaraj Thirumurugan, a passionate MERN Stack Trainer and Web Developer at IDM Techpark with over 2 years of experience. I’ve successfully guided 85+ students in mastering full stack web development and have built 10+ real-world projects using React, Node.js, and MongoDB. I specialize in hands-on technical training, mentoring, and helping others break into tech. My focus is on building clean, responsive, and scalable web applications. I also enjoy collaborating on open-source projects and conducting workshops. Always eager to learn, I’m currently expanding my skills in Data Science and Analytics to stay ahead in the tech industry.
+I’m Suryaraj Thirumurugan, a passionate MERN Stack Trainer and Web Developer at IDM Techpark with over 4 years of experience. I’ve successfully guided 900+ students in mastering full stack web development and have built 10+ real-world projects using React, Node.js, and MongoDB. I specialize in hands-on technical training, mentoring, and helping others break into tech. My focus is on building clean, responsive, and scalable web applications. I also enjoy collaborating on open-source projects and conducting workshops. Always eager to learn, I’m currently expanding my skills in Data Science and Analytics to stay ahead in the tech industry.
 </strong>
 
 </p>
